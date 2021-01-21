@@ -22,3 +22,6 @@ Para ejecutar el bot solamente escribes:
 <li>La puntuacion incrementa dependiendo de las veces que han completado palabras en el chat</li>
 </ul>
     
+<h1>Video Demostracion del Bot </h1>
+
+https://www.youtube.com/watch?v=kUgTzBQiIQs&t=7s&ab_channel=alongamecrafter
