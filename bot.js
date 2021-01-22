@@ -190,6 +190,18 @@ function aleatorio(inferior, superior) {
     return parseInt(inferior) + aleat
 }
 
+//Busca la letra en el arreglo
+function esta(caracter, miarray){
+    for(var j=0;j<miarray.length;j++){
+    if (caracter==miarray[j]){
+          return true;
+    }else{
+       }
+    }
+    return false;
+    }
+
+
 
 //Cuando gana
 function estanTodas(arrayAciertos, mipalabra) {
